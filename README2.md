@@ -6,4 +6,4 @@
 - **Tâche 1 :** Explorer l'historique des commits et discuter de la clarté et de la cohérence des messages de commit.
         - il y a les fonctionnalité modififier écrit en anglais avec l'url 
 - **Tâche 2 :** Identifier des exemples de bonnes pratiques de codage dans le code source.
-        - les dossiers et fichier sont bien rangé
+        - les dossiers et fichier sont bien rangé, il y a plusieurs fichiers css pour chaque features
